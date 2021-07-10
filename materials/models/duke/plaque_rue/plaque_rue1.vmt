@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/duke/plaque_rue/plaque_rue1"
+	$bumpmap "models/duke/plaque_rue/plaque_rue1_nm"
+	$surfaceprop Metal
+}
