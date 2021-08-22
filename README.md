@@ -1,4 +1,4 @@
-# FrenchStreetSignPack
+# French Street Sign Pack
 ![DUKE's CREATION](https://i.imgur.com/D0wCejB.png)
 ## INFORMATIONS
 French Street Sign Pack created by DUKE.
